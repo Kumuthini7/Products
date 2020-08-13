@@ -1,0 +1,66 @@
+{
+  "Products": [
+    {
+      "ProductId": 10001,
+      "ProductName":"Samsung",
+      "Category":"Mobile",
+      "Rate":30000,
+      "Tax":300
+    }, {
+      "ProductId": 25678,
+      "ProductName":"Realme",
+      "Category":"Mobile",
+      "Rate":11900,
+      "Tax":100
+    }, {
+      "ProductId": 12383,
+      "ProductName":"Xiaomi",
+      "Category":"Mobile",
+      "Rate":17000,
+      "Tax":120
+    }, {
+      "ProductId": 56784,
+      "ProductName":"Oppo",
+      "Category":"Mobile",
+      "Rate":20000,
+      "Tax":180
+    }, {
+      "ProductId": 87535,
+      "ProductName":"Moto",
+      "Category":"Mobile",
+      "Rate":39000,
+      "Tax":200
+    }, {
+      "ProductId": 13046,
+      "ProductName":"One plus",
+      "Category":"Mobile",
+      "Rate":40000,
+      "Tax":400
+    }, {
+      "ProductId": 71368,
+      "ProductName":"Honor",
+      "Category":"Mobile",
+      "Rate":10000,
+      "Tax":300
+    }, {
+      "ProductId": 45628,
+      "ProductName":"Samsung",
+      "Category":"Headphone",
+      "Rate":1000,
+      "Tax":30
+    }, {
+      "ProductId": 45739,
+      "ProductName":"Boat",
+      "Category":"Headphone",
+      "Rate":3000,
+      "Tax":85
+    }, {
+      "ProductId": 67710,
+      "ProductName":"Dell",
+      "Category":"Laptop",
+      "Rate":60000,
+      "Tax":1700
+    }
+  ]
+}
+
